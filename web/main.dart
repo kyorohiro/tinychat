@@ -1,6 +1,6 @@
 import 'dart:html' as html;
-import 'package:cl/kywebsocket_html.dart' as cl;
-import 'package:cl/kywebsocket.dart' as cl;
+import 'package:tinychat/kywebsocket_html.dart' as cl;
+import 'package:tinychat/kywebsocket.dart' as cl;
 
 void main() {
   html.querySelector("#button1")?.onClick.listen((event) async {
