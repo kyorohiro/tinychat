@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io' as io;
 
-import 'package:cl/kywebsocket.dart';
+import 'package:tinychat/kywebsocket.dart';
 
 import 'kywebsocket.dart';
 
